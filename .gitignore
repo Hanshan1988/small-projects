@@ -1,10 +1,13 @@
+# Configs
 *.json
 *.tsv
 *.srt
 *.vtt
 *.txt
+
 # Mac specific
 .DS_STORE
 # Ignore Python bytecode files
 __pycache__/
 *.pyc
+**/__pycache__/
